@@ -34,4 +34,4 @@ selenium
 *.swp
 *.swo
 *.out
-fixtures/translations
+data/translations

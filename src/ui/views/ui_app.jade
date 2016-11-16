@@ -115,12 +115,11 @@ block content
       .kibanaLoader__logo
         .kibanaWelcomeLogo
       .kibanaLoader__content
-        | Loading Kibana
+        | #{i18n('KIBANA-WELCOME_MESSAGE')}
     .kibanaLoadingMessage(
       data-remove-message-when-embedded
     )
-      | Give me a moment here. I&rsquo;m loading a whole bunch of code. Don&rsquo;t worry, all this
-      | good stuff will be cached up for next time!
+      | #{i18n('KIBANA-LOADING_MESSAGE')}
 
   script.
     window.onload = function () {

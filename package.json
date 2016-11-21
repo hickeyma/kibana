@@ -167,7 +167,6 @@
   },
   "devDependencies": {
     "@elastic/eslint-config-kibana": "0.0.3",
-    "accept-language-parser": "1.1.2",
     "angular-mocks": "1.4.7",
     "auto-release-sinon": "1.0.3",
     "babel-eslint": "4.1.8",
@@ -181,7 +180,6 @@
     "event-stream": "3.3.2",
     "expect.js": "0.3.1",
     "faker": "1.1.0",
-    "glob-promise": "1.0.6",
     "grunt": "1.0.1",
     "grunt-aws-s3": "0.14.5",
     "grunt-babel": "5.0.1",
